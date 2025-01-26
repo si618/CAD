@@ -7,13 +7,20 @@ Avoid PLA, use high-temperature filament such ABS, PETG or similar.
 
 ## Credits
 
-Thanks to Michael Olsen for their design of the
+- Thanks to Michael Olsen for their design of the
 [Keystone mount](https://www.printables.com/model/236975-keystone-panel-mount),
 which was modified for the network patch panel.
 
-Thanks to Mike G for their design of the
+- Thanks to Mike G for their design of the
 [Ubiquiti mini rack](https://www.printables.com/model/300940-ubiquiti-mini-rack),
 which this project was inspired by.
+
+## Hardware
+
+- [Unifi Gateway Max](https://store.ui.com/us/en/products/uxg-max)
+- [Unifi 8 Port Switch](https://store.ui.com/us/en/products/us-8-60w)
+- Raspberry Pi 4 in FLIRC case (8GB RAM)
+- Raspberry Pi 5 in Argon NEO 5 NVMe case (8GB RAM, 500GB M.2 SSD)
 
 ## Dimensions
 
