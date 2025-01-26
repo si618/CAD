@@ -1,24 +1,24 @@
 # N2 Mini Rack
 
-3D printed mini rack designed around the shape of my home server,
-the [Jonsbo N2](https://www.jonsbo.com/en/product/n2-mini-rack/).
+3D printed mini rack designed around the shape of a NAS server case,
+the [Jonsbo N2](https://www.jonsbo.com/en/products/N2White.html).
 
 Avoid PLA, use high-temperature filament such ABS, PETG or similar.
 
 ## Credits
 
-- Thanks to Michael Olsen for their design of the
+Thanks to Michael Olsen for their design of the
 [Keystone mount](https://www.printables.com/model/236975-keystone-panel-mount),
 which was modified for the network patch panel.
 
-- Thanks to Mike G for their design of the
+Thanks to Mike G for their design of the
 [Ubiquiti mini rack](https://www.printables.com/model/300940-ubiquiti-mini-rack),
 which this project was inspired by.
 
 ## Hardware
 
-- [Unifi Gateway Max](https://store.ui.com/us/en/products/uxg-max)
-- [Unifi 8 Port Switch](https://store.ui.com/us/en/products/us-8-60w)
+- [UniFi Gateway Max](https://store.ui.com/us/en/products/uxg-max)
+- [UniFi 8 Port Switch](https://store.ui.com/us/en/products/us-8-60w)
 - Raspberry Pi 4 in FLIRC case (8GB RAM)
 - Raspberry Pi 5 in Argon NEO 5 NVMe case (8GB RAM, 500GB M.2 SSD)
 
