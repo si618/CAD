@@ -5,6 +5,10 @@ the [Jonsbo N2](https://www.jonsbo.com/en/products/N2White.html).
 
 Avoid PLA, use high-temperature filament such ABS, PETG or similar.
 
+## Images
+
+![Isometric](./N2-Mini-Rack-Isometric.webp)
+
 ## Credits
 
 Thanks to Michael Olsen for their design of the
