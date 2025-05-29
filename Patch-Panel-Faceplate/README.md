@@ -1,6 +1,10 @@
 # Patch Panel Faceplate
 
-3D printed faceplate to wall mount an port patch panel.
+3D printed faceplate to wall mount a port patch panel.
+
+## Images
+
+![Isometric](Patch-Panel-Faceplate-Isometric.webp)
 
 ## Hardware
 
@@ -8,6 +12,7 @@
 
 ## Dimensions
 
-| Length (mm) | Width (mm) | Height (mm) |
-|-------------|------------|-------------|
-|         145 |         45 |          30 |
+| Hardware          | Length (mm) | Width (mm) | Height (mm) |
+|-------------------|-------------|------------|-------------|
+| Patch Panel       |         145 |         45 |          30 |
+| Faceplate         |         165 |         65 |           4 |
