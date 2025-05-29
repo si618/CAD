@@ -1,6 +1,6 @@
 # Patch Panel Faceplate
 
-3D printed faceplate to wall mount a port patch panel.
+3D printed faceplate to wall mount a patch panel.
 
 ## Images
 
